@@ -1,5 +1,7 @@
 DownloadWebsite is a app to download https://www.tretton37.com/
+
 Witten in .NET Core 3.1
+
 To run the app build the solution, and run from you IDE or navigate to \DownloadWebsite\DownloadWebsite\bin\Debug\netcoreapp3.1\DownloadWebsite.exe and execute.
 Features included are
 - Download of all HTML and CSS files
