@@ -8,10 +8,11 @@ Features included are
 - Download of assets such as images
 - Progress is shown by displaying the website currently being downloaded
 - Cancelations support by pressing ctrl + C
+- If a existing download of the website already exists it is removed
 
 The features where chosen because together they make a reasonable MVP in regards to specifications given.
 
-Cancelation support was added to take advantage of the use of asynchronous code
+Cancelation support was added to take advantage of the use of asynchronous code.
 To improve performance the app downloads assets simultaneously in parallel.
 But all pages are not downloaded simultaneously in parallel to avoid spamming the website and to avoid redundant calls of files already downloaded.
 
