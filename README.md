@@ -1,4 +1,4 @@
-DownloadWebsite is a app to download https://www.tretton37.com/
+DownloadWebsite is a app to download a website
 
 Witten in .NET Core 3.1
 
